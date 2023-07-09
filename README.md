@@ -13,7 +13,7 @@
   </ol>
 
 ## <span id="preview">Preview:</span>
-  <img src="./Develop/images/workday-planner-preview.png" alt="a preview of the scheduler site">
+  <img src="./assets/images/workday-planner-preview.png" alt="a preview of the scheduler site">
 
 ## <span id="license">License:</span>
   No license

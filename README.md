@@ -13,6 +13,7 @@
   </ol>
 
 ## <span id="preview">Preview:</span>
+  <a href="https://hanwol525.github.io/05-jQuery-Planner/">Deployed page link</a>
   <img src="./assets/images/workday-planner-preview.png" alt="a preview of the scheduler site">
 
 ## <span id="license">License:</span>

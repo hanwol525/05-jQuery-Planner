@@ -5,7 +5,7 @@ const workHours = ['9AM', '10AM', '11AM', '12PM', '1PM', '2PM', '3PM', '4PM', '5
 $(function createBlocks() {
   // renders current date/time at the top of the page
   let bigDateEnergy = $('<p>');
-  let dayJs = dayjs().format('dddd D/M, h:mmA');
+  let dayJs = dayjs().format('dddd M/D, h:mmA');
   bigDateEnergy.text(dayJs);
   currentDayEl.append(bigDateEnergy);
 
